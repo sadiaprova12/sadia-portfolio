@@ -1,0 +1,164 @@
+*{
+    margin: 0;
+
+}
+
+.left{
+    text-align: center;
+    font-size: 20px;
+    padding: 300px;
+}
+.New{
+     justify-content: space-between;
+    
+}
+     
+.my{
+    text-align: center;
+}
+.skills-container{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin: 30px 60px;
+}
+.skill{
+    color: black;
+}
+.skill-title{
+    font-weight: 700;
+    font-size: 30px;
+    text-align: center;
+    padding: 10px 20px;
+}
+.skill-description{
+    color: blue;
+    text-align: center;
+    padding: 10px;
+    font-size: 20;
+}
+.banner{
+    background-color: black;
+    margin: 60px 400px 60px 400px;
+    padding: 10px 20px;
+    text-align: left;
+}
+
+#imgg2{
+    text-align: center;
+}
+.two{
+    text-align: right;
+}
+.always{
+    color: aliceblue;
+    width: 300px;
+    height: 150px;
+    padding: 20px 70px;
+
+    font-size: 30px;
+    font-weight: 30px;
+}
+.btn-primary3{
+    background: white;
+    border-radius: 5px;
+    width: 160px;
+    height: 64px;
+}
+.what{
+    background: #bd0a0a;
+    margin: 150px 0px 0px 0px;
+    height: 400px;
+}
+.enter{
+    font-size: 25px;
+    height: 30px;
+}
+.space{
+    background-image: url(images/banner3.png);
+    background-repeat: no-repeat;
+    width: 1600px;
+height: 809px;
+}
+.sadia{
+   text-align: right;
+   font-size: 30px;
+   
+   padding: 200px 130px 60px 90px;
+}
+.LLL{
+    font-size: 17px;
+    color: beige;
+}
+.btn-primary{
+    border-radius: 5px;
+    width: 160px;
+    height: 64px;
+    border: 0px;
+    font-size: 20px;
+    color: black;
+}
+.what{
+    background: #080707;
+    
+    width: 1600px;
+height: 800px;
+}
+.enter{
+    font-size: 25px;
+    height: 30px;
+}
+.ll{
+    color: white;
+    font-size: 60px;
+    padding-left: 100px;
+    text-align: left
+}
+.futu{
+    text-align: center;
+
+}
+.there{
+    color: white;
+    font-size: 20px;
+    padding: 0px 100px ;
+    text-align: left;
+    
+}
+.img{
+    padding: 0px 100px;
+    text-align: left;
+}
+.h5{
+    text-align: left;
+    color: white;
+    padding: 0px 100px;
+}
+.ms{
+    text-align: right;
+    
+    padding: 100px ; 
+}
+.new-div{
+    display: flex;
+    justify-content: space-between;
+}
+.sub{
+    color: white;
+    font-size: 30px;
+    margin: 130px 200px 0px 0px;
+}
+.what{
+    text-align: right;
+}
+.btn-primary2{
+    background: #FFFFFF;
+border-radius: 5px;
+width: 120px;
+height: 64px;
+border: 0;
+color: black;
+margin: 20px 160px;
+
+
+}
